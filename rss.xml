@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DeepakChopra.tv]]></title>
+        <description><![CDATA[DeepakChopra.tv]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 May 2016 10:49:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://images.unsplash.com/photo-1460954824840-97d4e5ae54bb?crop=entropy&fit=crop&fm=jpg&h=1275&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=2500">]]></description>
+            <link>https://unsplash.com/photos/i0XNwkEnAWo</link>
+            <guid isPermaLink="false">4f27fd18-ed5f-4b25-80aa-8d284a5f312a</guid>
+            <pubDate>Thu, 19 May 2016 10:49:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
