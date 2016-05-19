@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[DeepakChopra.tv]]></title>
         <description><![CDATA[DeepakChopra.tv]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/deepakchopratv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 10:49:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 10:49:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/deepakchopratv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://images.unsplash.com/photo-1460954824840-97d4e5ae54bb?crop=entropy&fit=crop&fm=jpg&h=1275&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=2500">]]></description>
             <link>https://unsplash.com/photos/i0XNwkEnAWo</link>
             <guid isPermaLink="false">4f27fd18-ed5f-4b25-80aa-8d284a5f312a</guid>
             <pubDate>Thu, 19 May 2016 10:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paint With Fire Using This Virtual Reality App]]></title>
+            <description><![CDATA[<article><h1>Paint With Fire Using This Virtual Reality App</h1><p>Vocativ uses intelligent technology, smart journalists and the wisdom of the crowd to find story leads and angles no other news organization can.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1fd2f9f55fd33825a34fcf74867bcde35fb76de.jpg"></article>]]></description>
+            <link>http://www.vocativ.com/316058/paint-with-fire-using-this-virtual-reality-app/</link>
+            <guid isPermaLink="false">64774385-31d7-485e-bfd6-ebe56fb4a067</guid>
+            <pubDate>Thu, 19 May 2016 10:49:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
