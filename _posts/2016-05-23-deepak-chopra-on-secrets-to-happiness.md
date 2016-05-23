@@ -14,8 +14,8 @@ description: "More free talks from world thought leaders at www.soulsessions.co 
 app_links: []
 isBasedOnUrl: 'https://youtu.be/r_1JoYuLeYI'
 title: Deepak Chopra on Secrets to Happiness
-datePublished: '2016-05-23T16:45:33.232Z'
-dateModified: '2016-05-19T11:52:24.429Z'
+datePublished: '2016-05-23T16:46:28.472Z'
+dateModified: '2016-05-19T11:30:25.376Z'
 starred: false
 sourcePath: _posts/2016-05-23-deepak-chopra-on-secrets-to-happiness.md
 inFeed: true
