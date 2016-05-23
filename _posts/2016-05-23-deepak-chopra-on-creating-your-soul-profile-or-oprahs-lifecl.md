@@ -1,0 +1,75 @@
+---
+author:
+  - name: OWN
+    url: 'https://www.youtube.com/user/OWN'
+    avatar: {}
+related: []
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: youtu.be
+keywords:
+  - oprah
+  - chopra
+  - deepak
+  - duration
+  - lifeclass
+  - winfrey
+  - views
+  - http
+  - network
+  - bit
+description: 'Deepak Chopra tells Traci, a woman serving time at Rockville Correctional Facility in Indiana, how becoming self-aware can help her break free from her spiritual prison. Plus, Deepak shares the meaningful questions you need to ask yourself to discover who you really are and create a soul profile.'
+inLanguage: en
+app_links:
+  - url: 'vnd.youtube://www.youtube.com/watch?v=TCLnGQ24JPI&feature=applinks'
+    type: ios
+    namespace: ai
+    app_store_id: '544007664'
+    app_name: YouTube
+  - url: 'vnd.youtube://www.youtube.com/watch?v=TCLnGQ24JPI&feature=applinks'
+    type: android
+    namespace: ai
+    app_name: YouTube
+    package: com.google.android.youtube
+  - url: 'https://www.youtube.com/watch?v=TCLnGQ24JPI&feature=applinks'
+    type: web
+    namespace: ai
+  - url: 'vnd.youtube://www.youtube.com/watch?v=TCLnGQ24JPI&feature=applinks'
+    namespace: twitter
+    type: ipad
+    name: YouTube
+    id: '544007664'
+  - url: 'vnd.youtube://www.youtube.com/watch?v=TCLnGQ24JPI&feature=applinks'
+    namespace: twitter
+    type: iphone
+    name: YouTube
+    id: '544007664'
+  - url: 'https://www.youtube.com/watch?v=TCLnGQ24JPI'
+    namespace: twitter
+    type: googleplay
+    name: YouTube
+    id: com.google.android.youtube
+  - path: http/www.youtube.com/watch?v=TCLnGQ24JPI
+    package: com.google.android.youtube
+    namespace: google
+    type: android
+  - path: vnd.youtube/www.youtube.com/watch?v=TCLnGQ24JPI
+    package: '544007664'
+    namespace: google
+    type: ios
+isBasedOnUrl: 'https://youtu.be/TCLnGQ24JPI'
+title: "Deepak Chopra on Creating Your Soul Profile | Oprah's Lifeclass | Oprah Winfrey Network"
+datePublished: '2016-05-23T16:47:16.440Z'
+dateModified: '2016-05-19T11:22:26.692Z'
+starred: false
+sourcePath: _posts/2016-05-23-deepak-chopra-on-creating-your-soul-profile-or-oprahs-lifecl.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: VideoObject
+_context: 'http://schema.org'
+
+---
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FTCLnGQ24JPI%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTCLnGQ24JPI&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FTCLnGQ24JPI%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
