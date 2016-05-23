@@ -14,8 +14,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://youtu.be/twhYtFTYzG0'
 title: Deepak Chopra - How to find your life purpose
-datePublished: '2016-05-23T16:49:50.956Z'
-dateModified: '2016-05-23T16:18:53.309Z'
+datePublished: '2016-05-23T16:49:54.503Z'
+dateModified: '2016-05-23T16:18:27.893Z'
 starred: false
 sourcePath: _posts/2016-05-23-deepak-chopra-how-to-find-your-life-purpose.md
 inFeed: true
