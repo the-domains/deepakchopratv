@@ -1,4 +1,3 @@
-layout_spectrum: 0.8144675630610436
 typography_spectrum: 0.7359416307881474
 color:
   brandStrength: 0.06714185886085033
@@ -11,6 +10,8 @@ color:
     - '#553285'
     - '#7B52AB'
     - '#9768D1'
-name: DeepakChopra.tv
+layout_spectrum: 0.8144675630610436
 analytics:
   google: UA-3685914-24
+name: DeepakChopra.tv
+title: deepak chopra
